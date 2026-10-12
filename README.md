@@ -327,16 +327,6 @@ The system includes test images in `tests/fixtures/`:
 5. Generate and download PDF report
 6. View analysis history
 
-## Future Enhancements
-
-- Real EfficientNet model integration
-- Additional forensic algorithms (JPEG ghost, copy-move detection)
-- Batch processing for multiple images
-- Advanced filtering and search in history
-- User authentication and multi-user support
-- Cloud storage integration
-- Mobile app version
-
 ## License
 
 This project is created for the Chakravyuh 2.0 hackathon.
